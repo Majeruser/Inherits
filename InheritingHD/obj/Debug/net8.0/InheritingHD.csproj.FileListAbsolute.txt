@@ -1,0 +1,14 @@
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\bin\Debug\net8.0\InheritingHD.exe
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\bin\Debug\net8.0\InheritingHD.deps.json
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\bin\Debug\net8.0\InheritingHD.runtimeconfig.json
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\bin\Debug\net8.0\InheritingHD.dll
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\bin\Debug\net8.0\InheritingHD.pdb
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.AssemblyInfoInputs.cache
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.AssemblyInfo.cs
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.csproj.CoreCompileInputs.cache
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.dll
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\refint\InheritingHD.dll
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.pdb
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\InheritingHD.genruntimeconfig.cache
+C:\Users\Majer.Marton\source\repos\InheritingHD\InheritingHD\obj\Debug\net8.0\ref\InheritingHD.dll
